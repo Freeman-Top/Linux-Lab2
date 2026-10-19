@@ -1,0 +1,6 @@
+logfiles.txt
+*.bak
+*.pub
+*.pem
+*.key
+id_*
